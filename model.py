@@ -38,7 +38,7 @@ Scaling Configurations:
     └─────────────┴──────────┴────────┴────────────────┘
 
 Author: Arpit (github.com/Bshdhorrhh)
-License: Apache 2.0
+License: GNU AGPL v3.0
 """
 import math
 import torch

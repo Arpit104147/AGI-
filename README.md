@@ -8,7 +8,7 @@
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
+[![License: AGPL 3.0](https://img.shields.io/badge/License-AGPL%203.0-green.svg)](LICENSE)
 [![Architecture](https://img.shields.io/badge/Architecture-Liquid%20Neural%20ODE-purple.svg)](#architecture)
 
 ---
@@ -208,7 +208,7 @@ The output projection head shares weights with the input embedding layer (`head.
 
 ## 📄 License
 
-This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). See [LICENSE](LICENSE) for details.
 
 ---
 
