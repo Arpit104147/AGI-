@@ -1,0 +1,12 @@
+# ═══════════════════════════════════════════════════════════
+# OmniLiquid AGI — Dependencies
+# ═══════════════════════════════════════════════════════════
+# Core ML Framework
+torch>=2.0.0
+# Tokenization & Dataset Loading
+transformers>=4.30.0
+datasets>=2.14.0
+# Numerical Computing
+numpy>=1.24.0
+# HuggingFace Hub (for dataset downloads)
+huggingface-hub>=0.16.0
